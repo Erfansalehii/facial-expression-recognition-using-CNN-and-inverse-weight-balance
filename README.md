@@ -1,0 +1,2 @@
+# facial-expression-recognition-using-CNN-and-inverse-weight-balance
+This code trains a CNN in PyTorch to classify facial emotions from the FER2013 dataset. It uses data augmentation and addresses class imbalance by applying inverse-frequency class weights in the loss function, which improves accuracy for underrepresented emotions. The script reports per-class accuracy and visualizes results with a confusion matrix.
